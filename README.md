@@ -32,7 +32,7 @@ Developed by: Kumaran.B<br>
 Registeration Number : 212220230026
 */
 
-## Activity_Main.xml
+## <br><br><br>Activity_Main.xml
 ```xml
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -129,7 +129,7 @@ Registeration Number : 212220230026
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-##  MainActivity.java
+## <br><br> MainActivity.java
 ```java
 package com.example.project1;
 
