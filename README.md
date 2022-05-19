@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>PROGRAM:
 
 /*
-Developed by: Dineshkumar V<br>
-Registeration Number : 212220230013
+Developed by: Kumaran.B<br>
+Registeration Number : 212220230026
 */
 
 
@@ -202,8 +202,8 @@ Reset Button
 
 
 
-<br/>
-![Screenshot (193)](https://user-images.githubusercontent.com/75243072/169350086-60fbb23a-ce42-4208-bf34-506d31d53732.png)
+<br/>![Screenshot (193)](https://user-images.githubusercontent.com/75243072/169350086-60fbb23a-ce42-4208-bf34-506d31d53732.png)
+
 
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>RESULT
