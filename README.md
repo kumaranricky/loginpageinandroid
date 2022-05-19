@@ -25,19 +25,15 @@ Step 6: Accept username and password from the end user and the display informati
 
 Step 7: Save and run the application.
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>PROGRAM:
+## PROGRAM:
 
 /*
 Developed by: Kumaran.B<br>
 Registeration Number : 212220230026
 */
 
-
-java
-
-
 ## Activity_Main.xml
-
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -132,11 +128,9 @@ java
         app:layout_constraintVertical_bias="0.133" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ##  MainActivity.java
-
-
-
+```java
 package com.example.project1;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -188,22 +182,13 @@ Reset Button
     }
 }
 
-
-
-
-
-
-
+```
 
 
 ## <br/><br/><br/>OUTPUT
 ![Screenshot (192)](https://user-images.githubusercontent.com/75243072/169349904-489d40ab-ece9-45d5-ac19-99690ada8e98.png)
 
-
-
-
 <br/>![Screenshot (193)](https://user-images.githubusercontent.com/75243072/169350086-60fbb23a-ce42-4208-bf34-506d31d53732.png)
-
 
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>RESULT
