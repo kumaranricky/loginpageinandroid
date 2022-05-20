@@ -185,10 +185,12 @@ Reset Button
 ```
 
 
-## <br/><br/><br/>OUTPUT
-![Screenshot (192)](https://user-images.githubusercontent.com/75243072/169349904-489d40ab-ece9-45d5-ac19-99690ada8e98.png)
 
-<br/>![Screenshot (193)](https://user-images.githubusercontent.com/75243072/169350086-60fbb23a-ce42-4208-bf34-506d31d53732.png)
+## <br/><br/><br/>OUTPUT
+![Screenshot (214)](https://user-images.githubusercontent.com/75243072/169504631-2e847351-997d-4b81-8580-41fb7ce3ce5f.png)
+
+<br/>![Screenshot (215)](https://user-images.githubusercontent.com/75243072/169504756-bb354f36-e545-4588-8885-0a1576e5edb4.png)
+
 
 
 ## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>RESULT
